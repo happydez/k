@@ -1,0 +1,6 @@
+5
+Author_1 Title_1 Inform Place_1 Publisher_1 2010 560
+Author_1 Title_2 Math Place_1 Publisher_1 2010 384
+Author_2 Title_3 Math Place_2 Publisher_1 2010 672
+Author_3 Title_4 Physics Place_2 Publisher_1 2012 1231
+Author_1 Title_5 Math Place_1 Publisher_1 2010 219
